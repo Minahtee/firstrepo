@@ -1,2 +1,1 @@
 # firstrepo
-A school website 
